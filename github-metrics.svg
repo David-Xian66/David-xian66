@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1868" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2108" class="">
     <defs>
         <style/>
     </defs>
@@ -108,7 +108,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            322 issue comments
+                            325 issue comments
                         </div>
                     </section>
                     <section>
@@ -2709,6 +2709,111 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#145 最新代码存在严重问题</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by David-Xian66 in <span class="repo">zhinianboke/xianyu-auto-reply</span></div>
+                                    <div class="comment">@leoFitz1024 跟你互骂说真的挺释放压力的，要不要继续？
+理解不了我当时为什么发这样的issue，就不要对别人指指点点，这是对的一种冒犯，懂？真正有教养的人，在处理问题的时候都是运用矛盾观，发展观。而你，毫无疑问，一个也没用。甚至连最基本的思考：这个人为什么要发这个issue，都没有进行，就搁我这里bb
+我发这样的issue有我自己的目的，如果你不理解的话请不要在我这里指指点点
+如果你觉得我就是个没教养的人，你可以去看我在别的仓库提的issue
+当然，你觉得我怎样我根本就无所谓，你可能觉得说我没教养我会心理层面上的受伤，对于我这样的性格而言，说真的我不在意，我倒是觉得你挺好笑的。
+你可能觉得你在执行“正义”，但是我跟你互骂，我就当释放压力了
+在不了解事情全貌之前，不要指指点点，这是基本的处事方式</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#145 最新代码存在严重问题</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by David-Xian66 in <span class="repo">zhinianboke/xianyu-auto-reply</span></div>
+                                    <div class="comment">
+                                        <i>
+                                            <i>
+                                                <i>
+                                                    <i>
+                                                        <i>提Issue是好事，这个鸟语气理都不想理，开源社区最恶心这种傻逼</i>
+                                                        <i>脑力成果免费给你用, 丝毫感谢没有,说话也很冲撞, 基本的做人礼貌都不懂, 你资助作者了么? 在这像个老板指手画脚的</i>
+                                                        你俩用过当时的版本吗？叫啥呢？伸张正义？笑死我了
+这项目版本管理和代码写的都跟屎一样 发完的版本在docker上不同步，乱七八糟的
+本地的代码不测试就往上推
+分支管理也不做
+笑死我了
+                                                    </i>
+                                                    孤儿别用，有能力自己改bug，没能力别逼逼，白嫖还不知道尊重人，没教养的东西
+                                                </i>
+                                                在这里喷被人，还说别人没教养， 说两句就急，就喜欢管闲事，我看你还是太闲了，闲的话，你贡献呀，你不白嫖吗？真的搞笑 在这里说别人白嫖，自己在干嘛呢？ 我没教养管你啥事？你少 jb 了？
+                                            </i>
+                                            不好意思，我的教养只对有教养的，别人免费公开的东西我使用至少知道尊重别人，不像有些东西，别人开源的东西都不知道感谢，就知道bb。不会尊重别人的劳动成果，github就应该出个功能，把你这种傻逼ban了
+                                        </i>
+                                        别人有没有教养 你不用管 这是别人的事情，跟你有个鸡毛关系，你要是时间充裕的话，自己去贡献，不要在这里挑唆别人
+也不用在这里装很有教养的样子，也不要站在道德高地指使别人
+先贡献代码，再在我这里逼逼
+你自己嘴上说的，口口声声说的自己感谢作者，我倒是看不出来你哪感谢了，到现在，ICU 里连句谢谢都没有说过，这叫感谢吗？你的感谢只出现于在对别人的攻击中，用来掩饰你丑恶的嘴脸是吧，用来站在道德高指示别人是吧，这就是你说的所谓的感谢，这就是所谓的教养是吗？连己所不欲勿施于人都不懂
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#145 最新代码存在严重问题</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by David-Xian66 in <span class="repo">zhinianboke/xianyu-auto-reply</span></div>
+                                    <div class="comment">
+                                        <i>
+                                            <i>
+                                                <i>
+                                                    <i>
+                                                        <i>提Issue是好事，这个鸟语气理都不想理，开源社区最恶心这种傻逼</i>
+                                                        <i>脑力成果免费给你用, 丝毫感谢没有,说话也很冲撞, 基本的做人礼貌都不懂, 你资助作者了么? 在这像个老板指手画脚的</i>
+                                                        你俩用过当时的版本吗？叫啥呢？伸张正义？笑死我了
+这项目版本管理和代码写的都跟屎一样 发完的版本在docker上不同步，乱七八糟的
+本地的代码不测试就往上推
+分支管理也不做
+笑死我了
+                                                    </i>
+                                                    孤儿别用，有能力自己改bug，没能力别逼逼，白嫖还不知道尊重人，没教养的东西
+                                                </i>
+                                                在这里喷被人，还说别人没教养， 说两句就急，就喜欢管闲事，我看你还是太闲了，闲的话，你贡献呀，你不白嫖吗？真的搞笑 在这里说别人白嫖，自己在干嘛呢？ 我没教养管你啥事？你少 jb 了？
+                                            </i>
+                                            不好意思，我的教养只对有教养的，别人免费公开的东西我使用至少知道尊重别人，不像有些东西，别人开源的东西都不知道感谢，就知道bb。不会尊重别人的劳动成果，github就应该出个功能，把你这种傻逼ban了
+                                        </i>
+                                        行了 兄弟 世界上不少你这一个会说话的人，你要是没什么存在感的话，就去搞点新闻出来，不用在我这刷存在感
+我这不会认可你自己会打字 会长嘴的好吧
+你要是觉得自己会说话，就你会说话，就你长嘴了。你觉得你自己很自豪，我这不给予认可
+搞得就好像你自己很有教养一样，自己在这里骂别人，还说别人没有教养，真是不知道自己有多招笑
+还自己在这里装作自己很有教养，感觉自己很清高一样 乐死我了 兄弟
+我看你还有功夫给我筹吗？我觉得你时间挺多的。你要时间多的话，你自己去贡献，自己动手，丰衣足食，己所不欲，勿施于人，这道理懂吗？自己要是不懂的话，就别跟我这逼逼，世界上不少你这一个会说话的人，也不是只有你张嘴了
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -2744,23 +2849,6 @@
 分支管理也不做
 笑死我了
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#145 最新代码存在严重问题</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">zhinianboke/xianyu-auto-reply</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2805,7 +2893,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Apr 2026, 06:37:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Apr 2026, 07:39:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
